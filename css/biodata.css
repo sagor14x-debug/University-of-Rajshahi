@@ -1,4 +1,11 @@
-*{
-    background-color: lightskyblue;
-    color: black;
+.article {
+    /* margin: 10px solid black; */
+    background-color: rgba(200, 202, 217, 0.689);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.head {
+    text-align: center;
+    padding: 5px;
 }
